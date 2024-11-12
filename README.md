@@ -1,2 +1,9 @@
-# programacao-C
-Repositório para armazenar exercícios em C feitos em aula, realizados para praticar estruturas, vetores, condicionais, ponteiros e manipulação de arquivos.
+# Programação em C 💻
+
+Repositório com exercícios em **C** desenvolvidos durante as aulas. Focado em praticar:
+
+- **Estruturas de dados**
+- **Vetores** 
+- **Condicionais** 
+- **Ponteiros** 
+- **Manipulação de arquivos** 
